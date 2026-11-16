@@ -2,9 +2,9 @@
 
 ### Engenharia de IA aplicada · agentes com LLM em operação real
 
-Graduando em **Tecnologia em Agentes Inteligentes (FIAP)** e desenvolvedor de soluções em **supply chain**. Conecto negócio e tecnologia: entendo o processo na operação, desenho a solução e entrego o sistema funcionando. Meu foco é **AI Engineering**: agentes baseados em LLM, tool calling, guardrails e avaliação de comportamento.
+Graduando em **Tecnologia em Agentes Inteligentes (FIAP)** e desenvolvedor de soluções, processos, automações, com foco em escalabilidade e GenAI. Conecto negócio e tecnologia: entendo o processo na operação, desenho a solução e entrego o sistema funcionando. Meu foco é **AI Engineering**: agentes baseados em engenharia, GenAI, tool calling, data vector, rag , avaliação semântica, arquitetura transformers, tokenização, fine tuning de modelos, guardrails e avaliação de comportamento.
 
-`Python` · `LLMs por API (Claude, Gemini)` · `Tool use / function calling` · `Prompt e context engineering` · `Guardrails` · `FastAPI` · `SQL` · `Go`
+`Python` · `LLMs por API (Claude, Gemini)` · `Tool use / function calling` · `Prompt e context engineering` · `Guardrails` · `FastAPI` · `SQL` · `Go` Tokenização
 
 ## O que eu construo
 
