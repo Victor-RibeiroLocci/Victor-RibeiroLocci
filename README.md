@@ -2,6 +2,8 @@
 
 ### Engenharia de IA aplicada · agentes com LLM em operação real
 
+**Portfólio:** [victor-nathan-batista-ribeiro.vercel.app](https://victor-nathan-batista-ribeiro.vercel.app)
+
 Graduando em **Tecnologia em Agentes Inteligentes (FIAP)** e desenvolvedor de soluções, processos, automações, com foco em escalabilidade e GenAI. Conecto negócio e tecnologia: entendo o processo na operação, desenho a solução e entrego o sistema funcionando. Meu foco é **AI Engineering**: agentes baseados em engenharia, GenAI, tool calling, data vector, rag , avaliação semântica, arquitetura transformers, tokenização, fine tuning de modelos, guardrails e avaliação de comportamento.
 
 `Python` · `LLMs por API (Claude, Gemini)` · `Tool use / function calling` · `Prompt e context engineering` · `Guardrails` · `FastAPI` · `SQL` · `Go` Tokenização
@@ -90,5 +92,6 @@ O curso forma profissionais para projetar agentes baseados em LLM que integram A
 
 ## Contato
 
+- Portfólio: [victor-nathan-batista-ribeiro.vercel.app](https://victor-nathan-batista-ribeiro.vercel.app)
 - LinkedIn: [victor-nathan-batista-ribeiro](https://www.linkedin.com/in/victor-nathan-batista-ribeiro-a03943252)
 - E-mail: [vicnathan13@gmail.com](mailto:vicnathan13@gmail.com)
